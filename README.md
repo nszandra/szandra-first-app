@@ -1,0 +1,1 @@
+# szandra-first-app
